@@ -14,7 +14,7 @@ Learn how to apply inferential statistics and probability to real-world scenario
 ## Data Wrangling
 Learn the data wrangling process of gathering, assessing, and cleaning data.   
 Learn to use Python to wrangle data programmatically and prepare it for analysis.    
-* Wrangle and analyze data
+* Wrangle and analyze data: [tweet archive of twitter user @dog_rates ](https://github.com/jemc36/Udacity-DAND-DataWrangling-TwitterUser-WeRateDogs)
 
 ## Data Visualization with Python
 Learn to apply visualization principles to the data analysis process.   
